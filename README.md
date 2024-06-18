@@ -1,1 +1,57 @@
-# pwreadme
+## PW Live Class FE Repository
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Tech Stack](#tech-stack)
+3. [Prerequisites](#prerequisites)
+4. [Getting Started](#getting-started)
+5. [Usage](#usage)
+
+## Project Overview <a name="project-overview"></a>
+- **Purpose**:
+    - Prupose
+- **Features**:
+    - Features
+
+## Tech Stack <a name="tech-stack"></a>
+List of all technical stack utilized in the project:
+- NextJS
+- Typescript
+- Redux
+- Tailwind CSS
+- React Query
+
+## Prerequisites <a name="prerequisites"></a>
+Before you begin, ensure you have the following dependencies installed:
+- Node.js V20
+
+## Getting Started <a name="getting-started"></a>
+Follow these steps to get the project up and running:
+
+### Setup Instructions <a name="setup-instruction"></a>
+1. **Clone the Repository:**
+    - Open your terminal and execute the following commands:
+    ```bash
+    git clone https://gitlab.com/penpencil-services/uxcc/pw-live-class-fe.git
+    ```
+ 
+    - This will clone the project from the specified branch (`initial-commit`) of the GitLab repository. 
+
+    ```bash
+    cd pw-live-class-fe
+    ```
+2. **Install npm:**
+    - To install npm, run the following command
+    ```bash
+    npm install --legacy-peer-deps
+    ```
+3. **Start Development Servers:**
+    - Execute the following command:
+    ```bash
+    npm run dev 
+    ```
+    - PORT `3000`
+    - URL: `localhost:3000/`
+    - Sample url - `http://localhost:3000/counter/`
+
+## Usage <a name="usage"></a>
+- This project does not require explicit usage instructions
