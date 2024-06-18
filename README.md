@@ -51,7 +51,7 @@ Follow these steps to get the project up and running:
     ```
     - PORT `3000`
     - URL: `localhost:3000/`
-    - Sample url for live-class[Local] - `http://localhost:3000/classroom/pw-live-class/65d49f551b64230018f40349`
+    - Sample url for live-class[Local] - `http://localhost:3000/classroom/pw-live-class/6671330ded18bda94d0896ea`
     - Sample url for live-class[Stage]- `https://staging.physicswallah.live/classroom/pw-live-class/65d49f551b64230018f40349`
     - Sample url for live-class[Prerod]- `https://demo.pw.live/classroom/pw-live-class/6606b554b86e830018b6a665`
     - Sample url for live-class[Prod] -`https://pw.live/classroom/pw-live-class/65d49f551b64230018f40349`
