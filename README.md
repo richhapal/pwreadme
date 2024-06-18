@@ -51,7 +51,13 @@ Follow these steps to get the project up and running:
     ```
     - PORT `3000`
     - URL: `localhost:3000/`
-    - Sample url - `http://localhost:3000/counter/`
+    - Sample url for live-class[Local] - `http://localhost:3000/classroom/pw-live-class/65d49f551b64230018f40349`
+    - Sample url for live-class[Stage]- `https://staging.physicswallah.live/classroom/pw-live-class/65d49f551b64230018f40349`
+    - Sample url for live-class[Prerod]- `https://demo.pw.live/classroom/pw-live-class/6606b554b86e830018b6a665`
+    - Sample url for live-class[Prod] -`https://pw.live/classroom/pw-live-class/65d49f551b64230018f40349`
+    - Sample url for teacher[Stage]- `https://teacher-v2-stage.physicswallah.live/classroom/pw-live-class-teacher/66704238dd285463fc21ec8a`
+    - Sample url for teacher[Prod] `https://teacher.physicswallah.live/classroom/pw-live-class-teacher/66070018186b4b00185640f9`
+      
 
 ## Usage <a name="usage"></a>
 - This project does not require explicit usage instructions
