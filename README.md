@@ -45,10 +45,10 @@ Follow these steps to get the project up and running:
     npm install --legacy-peer-deps
     ```
 3. **Start Development Servers:**
-    - Prerequisites to run :- 
-      1. First, you have to login on <a href="https://staging.physicswallah.live/study/auth?url=">Stage Auth Server</a>
-      2. You have to copy the value of these keys user,token,randomId from local storage.
-      3. There is a Cred.json file which contains these keys _User, _Token and _RandomId. and paste value.
+    - Prerequisites to run locally:- 
+      1. First, you have to login on <a href="https://staging.physicswallah.live/study/auth?url=" target="_blank">Stage Auth Server</a>. The OTP will be `123456` on stage auth server.
+      2. You have to copy the value of these keys `user` as `Object`, `token/TOKEN` as `String`,randomId from local storage.
+      3. There is a Cred.json file which contains these keys `_User`, `_Token` and `_RandomI`d. and paste values. `_User` and `Token` keys are mandtory to update.
     
     - Execute the following command:
     ```bash
