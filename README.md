@@ -22,7 +22,7 @@ List of all technical stack utilized in the project:
 
 ## Prerequisites <a name="prerequisites"></a>
 Before you begin, ensure you have the following dependencies installed:
-- Node.js V20
+- Node.js V16
 
 ## Getting Started <a name="getting-started"></a>
 Follow these steps to get the project up and running:
@@ -45,10 +45,16 @@ Follow these steps to get the project up and running:
     npm install --legacy-peer-deps
     ```
 3. **Start Development Servers:**
+    - Prerequisites to run :- 
+      1. First, you have to login on <a href="https://staging.physicswallah.live/study/auth?url=">Stage Auth Server</a>
+      2. You have to copy the value of these keys user,token,randomId from local storage.
+      3. There is a Cred.json file which contains these keys _User, _Token and _RandomId. and paste value.
+    
     - Execute the following command:
     ```bash
     npm run dev 
     ```
+    
     - PORT `3000`
     - URL: `localhost:3000/`
     - Sample url for live-class[Local] - `http://localhost:3000/classroom/pw-live-class/6671330ded18bda94d0896ea`
